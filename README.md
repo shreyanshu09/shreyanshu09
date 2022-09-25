@@ -7,7 +7,7 @@
 
 I am currently enrolled as a graduate student at Kyungpook National University pursuing a master's degree in Artificial Intelligence. Actively looking to contribute to research on Artificial Intelligence to solve meaningful real-world problems through interdisciplinary collaborations. 
 
-- 📭 &nbsp; Most of my projects are available on [Github](https://github.com/shreyanshu09.me)
+- 📭 &nbsp; Most of my projects are available on [Github](https://github.com/shreyanshu09?tab=repositories)
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 😄 &nbsp; Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - 👾 &nbsp; By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.
