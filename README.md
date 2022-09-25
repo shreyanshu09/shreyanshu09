@@ -11,9 +11,3 @@ I am currently enrolled as a graduate student at Kyungpook National University p
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 😄 &nbsp; Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - 👾 &nbsp; By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.
-
-
-<!---
-shreyanshu09/shreyanshu09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
