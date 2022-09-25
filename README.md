@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyanshubhushan@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu09/ "Connect on LinkedIn")
 
-<a href="https://shreyanshu09.me/"><img src="https://github.com/shreyanshu09/shreyanshu09/blob/main/image.png" align="right" height="275" /></a>
+<a href="https://shreyanshu09.me/"><img src="https://github.com/shreyanshu09/shreyanshu09/blob/main/image.png" align="right" height="200" /></a>
 
 I am currently enrolled as a graduate student at Kyungpook National University pursuing a master's degree in Artificial Intelligence. Actively looking to contribute to research on Artificial Intelligence to solve meaningful real-world problems through interdisciplinary collaborations. 
 
