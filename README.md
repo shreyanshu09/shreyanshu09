@@ -1,4 +1,4 @@
-## Hi there, [Shreyanshu Bhushan](https://shreyanshu09.me) here 👋🏼👨🏻‍💻
+## Hi there, [Shreyanshu Bhushan](https://github.com/shreyanshu09) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyanshubhushan@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu09/ "Connect on LinkedIn")
