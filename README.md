@@ -9,6 +9,6 @@ I am currently enrolled as a graduate student at Kyungpook National University p
 
 - 📭 &nbsp; Most of my projects are available on [Github](https://github.com/shreyanshu09?tab=repositories)
 - 💬 &nbsp; Ask me about anything! I am happy to help.
-- 📫 &nbsp; How to reach me: [Email](shreyanshubhushan@gmail.com) [LinkedIn](https://www.linkedin.com/in/shreyanshu09/)
+- 📫 &nbsp; How to reach me: [shreyanshubhushan@gmail.com] [LinkedIn](https://www.linkedin.com/in/shreyanshu09/)
 - 😄 &nbsp; Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 - 👾 &nbsp; By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.
