@@ -5,9 +5,14 @@
 
 <a href="https://shreyanshu09.me/"><img src="https://github.com/shreyanshu09/shreyanshu09/blob/main/image.png" align="right" height="240" /></a>
 
-I am currently enrolled as a graduate student at Kyungpook National University pursuing a master's degree in Artificial Intelligence. Actively looking to contribute to research on Artificial Intelligence to solve meaningful real-world problems through interdisciplinary collaborations. 
+I am a passionate AI Researcher who develops and applies different algorithms to solve real-world problems. I am currently working as an AI Researcher at ALI (Artificial Language Intelligence) Seoul, where I am focused on developing new AI technologies for open-domain knowledge services, including chat-bots and QA systems.
 
-- 📭 &nbsp; Most of my projects are available on [Github](https://github.com/shreyanshu09?tab=repositories)
+I have a Master of Science in Artificial Intelligence from Kyungpook National University, where I worked on developing algorithms for natural language processing. I also worked on computer vision projects.
+
+I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working with others to achieve common goals.
+
+I am excited to use my skills and experience to make a positive impact on the world through AI.
+
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: [shreyanshubhushan@gmail.com] [LinkedIn](https://www.linkedin.com/in/shreyanshu09/)
 - 😄 &nbsp; Learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
