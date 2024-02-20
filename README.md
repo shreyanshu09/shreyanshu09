@@ -5,13 +5,12 @@
 
 <a href="https://shreyanshu09.me/"><img src="https://github.com/shreyanshu09/shreyanshu09/blob/main/image.png" align="right" height="240" /></a>
 
-I am a passionate AI Researcher who develops and applies different algorithms to solve real-world problems. I am currently working as an AI Researcher at ALI (Artificial Language Intelligence) Seoul, where I am focused on developing new AI technologies for open-domain knowledge services, including chat-bots and QA systems.
+As an AI Researcher, I am dedicated to the development and application of diverse algorithms to address real-world challenges. Presently, I hold the position of AI Researcher at ALI (Artificial Language Intelligence) Seoul, where my primary focus lies in the summarization of images, such as block diagrams, charts, and tables, into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination. Additionally, I have worked on the advancement of AI technologies tailored for open-domain knowledge services, encompassing chatbots and question-answering systems.
 
-I have a Master of Science in Artificial Intelligence from Kyungpook National University, where I worked on developing algorithms for natural language processing. I also worked on computer vision projects.
+My academic background includes a Master of Science degree in Artificial Intelligence from Kyungpook National University, South Korea. During my tenure at the university, my research efforts were concentrated on the formulation and implementation of algorithms pertinent to natural language processing (NLP). Additionally, I contributed to projects in the realm of computer vision (CV).
 
-I am a highly motivated and results-oriented individual with a strong work ethic. I am also a team player and enjoy working with others to achieve common goals.
+I am excited to utilize my skills and experience to make a positive impact on the world through AI.
 
-I am excited to use my skills and experience to make a positive impact on the world through AI.
 
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; How to reach me: [shreyanshubhushan@gmail.com] [LinkedIn](https://www.linkedin.com/in/shreyanshu09/)
