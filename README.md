@@ -7,9 +7,9 @@
 
 As an AI Researcher, I am dedicated to the development and application of diverse algorithms to address real-world challenges. Presently, I hold the position of AI Researcher at ALI (Artificial Language Intelligence) Seoul.
 
-My primary focus lies in the summarization of images, such as block diagrams, charts, and tables, into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination. 
+My primary focus is on Document AI, which involves processing documents containing text, block diagrams, charts, and tables, and converting them into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination.
 
-Additionally, I have worked on the advancement of AI technologies tailored for open-domain knowledge services, encompassing chatbots and question-answering systems.
+Additionally, I have contributed to the advancement of AI technologies tailored for open-domain knowledge services, including chatbots and question-answering systems.
 
 My academic background includes a Master of Science degree in Artificial Intelligence from Kyungpook National University, South Korea. During my tenure at the university, my research efforts were concentrated on the formulation and implementation of algorithms pertinent to natural language processing (NLP). Additionally, I contributed to projects in the realm of computer vision (CV).
 
