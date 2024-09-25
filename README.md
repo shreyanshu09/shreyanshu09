@@ -7,7 +7,7 @@
 
 As an AI Researcher, I am dedicated to the development and application of diverse algorithms to address real-world challenges. Presently, I hold the position of AI Researcher at ALI (Artificial Language Intelligence) Seoul.
 
-My primary focus is on Document AI, which involves processing documents containing text, block diagrams, charts, and tables, and converting them into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination.
+My primary focus is on Document AI (LLM, VLM), which involves processing documents containing text, block diagrams, charts, and tables, and converting them into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination.
 
 Additionally, I have contributed to the advancement of AI technologies tailored for open-domain knowledge services, including question-answering systems.
 
