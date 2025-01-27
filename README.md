@@ -5,13 +5,11 @@
 
 <a href="https://shreyanshu09.me/"><img src="https://github.com/shreyanshu09/shreyanshu09/blob/main/image.png" align="right" height="240" /></a>
 
-As an AI Researcher, I am dedicated to the development and application of diverse algorithms to address real-world challenges. Presently, I hold the position of AI Researcher at ALI (Artificial Language Intelligence) Seoul.
+As an AI Researcher, I am deeply passionate about developing and applying diverse algorithms to tackle real-world challenges. My primary research areas include Natural Language Processing (NLP), particularly with Large Language Models (LLMs/sLLM), computer vision (image processing), and Vision-Language Models (VLMs). I focus on creating compact models that work efficiently on-device and offline.
 
-My primary focus is on Document AI (LLM, VLM), which involves processing documents containing text, block diagrams, charts, and tables, and converting them into textual or structured data formats. This capability enhances the accessibility and interpretability of visual information, aligning with the overarching goal of facilitating knowledge dissemination.
+I have worked extensively on Document AI, focusing on processing documents that contain not only text but also images, block diagrams, charts, and tables. I convert these documents into textual or structured data formats, enhancing both accessibility and interpretability. Additionally, I have contributed to projects that involve file translation while preserving the original layout, a task that combines both NLP and computer vision techniques to ensure seamless file transformation.
 
-Additionally, I have contributed to the advancement of AI technologies tailored for open-domain knowledge services, including question-answering systems.
-
-My academic background includes a Master of Science degree in Artificial Intelligence from Kyungpook National University, South Korea. During my tenure at the university, my research efforts were concentrated on the formulation and implementation of algorithms pertinent to natural language processing (NLP). Additionally, I contributed to projects in the realm of computer vision (CV).
+My academic background includes a Master of Science degree in Artificial Intelligence from Kyungpook National University, South Korea. During my tenure at the university, my research efforts were concentrated on the formulation and implementation of algorithms pertinent to natural language processing (NLP) and computer vision (CV).
 
 I am excited to utilize my skills and experience to make a positive impact on the world through AI.
 
